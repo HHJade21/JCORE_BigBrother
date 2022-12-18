@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_growth_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_growth_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_social.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_social.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_activity_daily_calendar.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\activity_daily_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_growth.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_growth.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_activity_save_editwindow.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\activity_save_editwindow.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_study_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_study_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-hdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-hdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_assignment.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_study_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_study_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_anniversary_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_anniversary_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_hang_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_hang_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xxxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_growth_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_growth_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_assignment_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_assignment_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xxxhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xxxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_hang.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_hang.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_calendarplus.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\calendarplus.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_study.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_study.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-mdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_save.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xxhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xxhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_hour_cell.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\hour_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_event_cell.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\event_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_ic_baseline_event_note_24.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\ic_baseline_event_note_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_date_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_date_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-hdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-hdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "com.example.calendarappexample.app-merged_res-29:/layout_activity_event_edit.xml.flat",
+        "source": "com.example.calendarappexample.app-main-31:/layout/activity_event_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_social_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_social_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_date.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_date_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_date_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_anniversary_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_anniversary_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_anniversary.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_anniversary.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_work.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_work.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_hang_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_hang_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_activity_analysis.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\activity_analysis.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xxhdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-mdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-mdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\font_party_confetti.ttf.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\font\\party_confetti.ttf"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_calendar_cell.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\calendar_cell.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_app_icon_background.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\drawable\\app_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xhdpi_app_icon_foreground.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xhdpi\\app_icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_work_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_work_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_activity_event_edit.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\activity_event_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\font_font.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\font\\font.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_assignment_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_assignment_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-debug-30:\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_work_state.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_work_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\drawable_bt_rect_social_on.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\drawable\\bt_rect_social_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-merged_res-29:\\layout_activity_week_view.xml.flat",
+        "source": "C:\\Users\\tmdal\\.gradle\\daemon\\7.4\\com.example.calendarappexample.app-main-31:\\layout\\activity_week_view.xml"
+    }
+]
